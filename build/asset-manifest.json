@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3f8bfc72.chunk.css",
+    "main.js": "/static/js/main.20e477e7.chunk.js",
+    "main.js.map": "/static/js/main.20e477e7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4bce4451.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4bce4451.js.map",
+    "static/js/2.efdd829b.chunk.js": "/static/js/2.efdd829b.chunk.js",
+    "static/js/2.efdd829b.chunk.js.map": "/static/js/2.efdd829b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.3f8bfc72.chunk.css.map": "/static/css/main.3f8bfc72.chunk.css.map",
+    "static/js/2.efdd829b.chunk.js.LICENSE.txt": "/static/js/2.efdd829b.chunk.js.LICENSE.txt",
+    "static/media/About_test.437a7f60.svg": "/static/media/About_test.437a7f60.svg",
+    "static/media/Edu.c1f9ce7f.gif": "/static/media/Edu.c1f9ce7f.gif",
+    "static/media/Fintech.67b6ee20.gif": "/static/media/Fintech.67b6ee20.gif",
+    "static/media/Health.5ddcf5ee.gif": "/static/media/Health.5ddcf5ee.gif",
+    "static/media/Home.a79546c5.svg": "/static/media/Home.a79546c5.svg",
+    "static/media/Reg_img.4444582f.svg": "/static/media/Reg_img.4444582f.svg",
+    "static/media/style.scss": "/static/media/Resolve-Semilight.31455d14.otf",
+    "static/media/Security.887cb622.gif": "/static/media/Security.887cb622.gif",
+    "static/media/aigif.ca747614.gif": "/static/media/aigif.ca747614.gif",
+    "static/media/logo.f307232f.png": "/static/media/logo.f307232f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bce4451.js",
+    "static/js/2.efdd829b.chunk.js",
+    "static/css/main.3f8bfc72.chunk.css",
+    "static/js/main.20e477e7.chunk.js"
+  ]
+}
